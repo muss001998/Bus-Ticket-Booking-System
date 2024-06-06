@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Bus Booking Management System</title>
+  <title>Bus-Ticket-Booking-System</title>
 
 </head>
 
@@ -94,7 +94,7 @@
 
       <div class="mr-md-auto text-center text-md-left">
         <div class="copyright">
-           <strong><span><a href="https://campcodes.com" target="_blank">CampCodes</a></span></strong>
+           <strong><span><a href="#" target="_blank">Bus-Ticket-Booking-System</a></span></strong>
         </div>
       </div>
     </div>
